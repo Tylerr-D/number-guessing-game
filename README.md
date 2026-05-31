@@ -1,4 +1,4 @@
-# 🎮 Number Guessing Game (Rust)
+#  Number Guessing Game (Rust)
 
 A fun little terminal game built in Rust where you try to guess a randomly generated number. Simple idea, but it’s a good way to practice loops, input handling, and basic game logic.
 
